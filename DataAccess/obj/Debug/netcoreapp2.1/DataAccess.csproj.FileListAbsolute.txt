@@ -1,0 +1,14 @@
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.json
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.dev.json
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\едиген.CORP\source\repos\WebAPIExample\DataAccess\bin\Debug\netcoreapp2.1\Models.pdb

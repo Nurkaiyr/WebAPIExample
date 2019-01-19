@@ -1,0 +1,9 @@
+C:\Users\едиген.CORP\source\repos\WebAPIExample\Modules\bin\Debug\netcoreapp2.1\Modules.deps.json
+C:\Users\едиген.CORP\source\repos\WebAPIExample\Modules\bin\Debug\netcoreapp2.1\Modules.dll
+C:\Users\едиген.CORP\source\repos\WebAPIExample\Modules\bin\Debug\netcoreapp2.1\Modules.pdb
+C:\Users\едиген.CORP\source\repos\WebAPIExample\Modules\obj\Debug\netcoreapp2.1\Modules.csprojAssemblyReference.cache
+C:\Users\едиген.CORP\source\repos\WebAPIExample\Modules\obj\Debug\netcoreapp2.1\Modules.csproj.CoreCompileInputs.cache
+C:\Users\едиген.CORP\source\repos\WebAPIExample\Modules\obj\Debug\netcoreapp2.1\Modules.AssemblyInfoInputs.cache
+C:\Users\едиген.CORP\source\repos\WebAPIExample\Modules\obj\Debug\netcoreapp2.1\Modules.AssemblyInfo.cs
+C:\Users\едиген.CORP\source\repos\WebAPIExample\Modules\obj\Debug\netcoreapp2.1\Modules.dll
+C:\Users\едиген.CORP\source\repos\WebAPIExample\Modules\obj\Debug\netcoreapp2.1\Modules.pdb
